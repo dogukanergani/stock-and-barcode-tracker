@@ -1,11 +1,11 @@
-# 🛒 Kaleli Tekel Analitik Yönetim Sistemi
+# 🛒 Tekel Analitik Yönetim Sistemi
 
-Bu proje, yerel bir işletmenin (Kaleli Tekel) tüm satış, stok ve envanter süreçlerini dijitalleştirmek; aynı zamanda arka planda ticari veri toplayarak akademik/istatistiksel analizler için gerçek dünya verisi (time-series data) oluşturmak amacıyla geliştirilmiş modern bir WPF masaüstü uygulamasıdır.
+Bu proje, yerel bir işletmenin  tüm satış, stok ve envanter süreçlerini dijitalleştirmek; aynı zamanda arka planda ticari veri toplayarak akademik/istatistiksel analizler için gerçek dünya verisi oluşturmak amacıyla geliştirilmiş modern bir WPF masaüstü uygulamasıdır.
 
 ## 🚀 Öne Çıkan Özellikler
 
 * **Işık Hızında Satış Modülü:** Fiziksel lazer barkod okuyucularla tam uyumlu çalışan, klavye emülasyonu destekleyen akıllı giriş sistemi.
-* **Akıllı Ürün Arama:** Barkodsuz ürünler için kelime bazlı hızlı arama motoru (ör. "tub sar").
+* **Akıllı Ürün Arama:** Barkodsuz ürünler için kelime bazlı hızlı arama motoru 
 * **Parçalı Ödeme Sistemi:** Müşterilerin hem nakit hem kart ile aynı anda ödeme yapabilmesine olanak tanıyan esnek kasa altyapısı.
 * **Gelişmiş Veri Analitiği:** 
   * En çok kâr getiren ilk 10 ürün analizi.
